@@ -63,3 +63,19 @@ body {
     font-size: 1rem;
     text-wrap: nowrap;
 }
+
+a:link{
+    color:white
+}
+
+a:visited{
+    color:white
+}
+
+a:hover{
+    color: rgb(145, 12, 212);
+}
+
+a:active{
+    color: rgb(145, 12, 212);
+}
